@@ -1,0 +1,9 @@
+[submodule "dropp-infra"]
+	path = dropp-infra
+	url = https://github.com/dropporg/dropp-infra.git
+[submodule "dropp-heal"]
+	path = dropp-heal
+	url = https://github.com/dropporg/dropp-heal.git
+[submodule "dropp-heal-gitops"]
+	path = dropp-heal-gitops
+	url = https://github.com/dropporg/dropp-heal-gitops.git
